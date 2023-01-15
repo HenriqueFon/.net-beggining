@@ -24,3 +24,7 @@ Criar global JSON com a versão
 Criar migration
 
 --> dotnet ef migration add nomeMigration -o diretorio do migration
+
+Criar um arquivo banco de dados
+
+--> dotnet ef database update
