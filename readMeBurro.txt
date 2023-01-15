@@ -20,3 +20,7 @@ a API
 Criar global JSON com a versão
 
 --> dotnet new globaljson --sdk-version versão do .net
+
+Criar migration
+
+--> dotnet ef migration add nomeMigration -o diretorio do migration
